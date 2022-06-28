@@ -10,7 +10,7 @@ namespace nothing
 
         public Tuple<string,string> Login(string username, string password)
         {
-            if (password == "12345")
+            if ((username == "cavid@code.edu.az" && password == "12345"))
             {
                 Console.WriteLine("Girish olundu");
 
