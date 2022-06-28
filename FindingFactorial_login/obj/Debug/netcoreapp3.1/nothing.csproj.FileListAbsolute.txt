@@ -1,0 +1,14 @@
+C:\Users\Resad\source\repos\nothing\nothing\bin\Debug\netcoreapp3.1\nothing.exe
+C:\Users\Resad\source\repos\nothing\nothing\bin\Debug\netcoreapp3.1\nothing.deps.json
+C:\Users\Resad\source\repos\nothing\nothing\bin\Debug\netcoreapp3.1\nothing.runtimeconfig.json
+C:\Users\Resad\source\repos\nothing\nothing\bin\Debug\netcoreapp3.1\nothing.runtimeconfig.dev.json
+C:\Users\Resad\source\repos\nothing\nothing\bin\Debug\netcoreapp3.1\nothing.dll
+C:\Users\Resad\source\repos\nothing\nothing\bin\Debug\netcoreapp3.1\nothing.pdb
+C:\Users\Resad\source\repos\nothing\nothing\obj\Debug\netcoreapp3.1\nothing.csproj.AssemblyReference.cache
+C:\Users\Resad\source\repos\nothing\nothing\obj\Debug\netcoreapp3.1\nothing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Resad\source\repos\nothing\nothing\obj\Debug\netcoreapp3.1\nothing.AssemblyInfoInputs.cache
+C:\Users\Resad\source\repos\nothing\nothing\obj\Debug\netcoreapp3.1\nothing.AssemblyInfo.cs
+C:\Users\Resad\source\repos\nothing\nothing\obj\Debug\netcoreapp3.1\nothing.csproj.CoreCompileInputs.cache
+C:\Users\Resad\source\repos\nothing\nothing\obj\Debug\netcoreapp3.1\nothing.dll
+C:\Users\Resad\source\repos\nothing\nothing\obj\Debug\netcoreapp3.1\nothing.pdb
+C:\Users\Resad\source\repos\nothing\nothing\obj\Debug\netcoreapp3.1\nothing.genruntimeconfig.cache
